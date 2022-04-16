@@ -6,12 +6,16 @@ Languages	HTML, CSS, JavaScript, Node.JS, Express.JS, Python
 Auth0	For authentication and authorization
 
 **INSTALLATION**
+
 Open your favorite Terminal and run these commands: Clone the repository:
 
+
 git clone https://github.com/Brugen-git/Menstrual-Hygiene-Manager.git
+
 Give Permission to yarn:
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
+
 Install node modules:
 
 yarn install
