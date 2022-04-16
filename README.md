@@ -7,14 +7,31 @@ Auth0	For authentication and authorization
 
 **INSTALLATION**
 
+Open your favorite Terminal and run these commands:
+Clone the repository: 
+```sh
+git clone https://github.com/SWASTIKA28/glovia
+```
+
+Give Permission to yarn:
+```sh
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
+```
+
+Install node modules: 
+```sh
+yarn install
+```
+Start the server: 
+```sh
+yarn start
+```
+
 Open your favorite Terminal and run these commands: Clone the repository:
 
 
 git clone https://github.com/Brugen-git/Menstrual-Hygiene-Manager.git
 
-Give Permission to yarn:
-
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
 
 Install node modules:
 
@@ -22,3 +39,6 @@ yarn install
 Start the server:
 
 yarn start
+
+View Deployment at :
+https://menstrual-hygiene-management.herokuapp.com/
