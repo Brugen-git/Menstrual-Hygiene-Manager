@@ -27,18 +27,11 @@ Start the server:
 yarn start
 ```
 
-Open your favorite Terminal and run these commands: Clone the repository:
-
-
-git clone https://github.com/Brugen-git/Menstrual-Hygiene-Manager.git
-
-
-Install node modules:
-
-yarn install
-Start the server:
-
-yarn start
 
 View Deployment at :
 https://menstrual-hygiene-management.herokuapp.com/
+
+ If you like my work and want to support it
+ https://www.buymeacoffee.com/brugen
+
+
